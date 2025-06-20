@@ -1,0 +1,1 @@
+export { SuprematismScene } from './SuprematismScene'; 
